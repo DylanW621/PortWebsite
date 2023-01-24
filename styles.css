@@ -1,0 +1,24 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto&family=Space+Mono:wght@700&display=swap');
+
+
+.headfont {
+    font-family: 'Space Mono', monospace;
+    font-size: 75px;
+    font-size: 5vw;
+    margin-bottom: 0px;
+}
+
+.midcontent {
+    margin-left: 20%;
+    margin-right: 10%;
+}
+
+.maintext{
+    font-family: 'Roboto', sans-serif;
+    font-size: 20px;
+    font-size: 1vw;
+    color: #3F3F3F;
+}
+
+
