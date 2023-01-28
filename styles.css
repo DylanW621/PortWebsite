@@ -4,19 +4,19 @@
 
 .headfont {
     font-family: 'Space Mono', monospace;
-    font-size: 800%;
+    font-size: 6vw;
     margin-bottom: 0px;
 }
 
 .maintext{
     font-family: 'Roboto', sans-serif;
-    font-size: 175%;
+    font-size: 1.15vw;
     color: #3F3F3F;
 }
 
 .navtext{
     font-family: 'Roboto', sans-serif;
-    font-size: 175%;
+    font-size: 1.25vw;
 }
 
 html, body {
