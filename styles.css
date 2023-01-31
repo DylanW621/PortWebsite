@@ -24,3 +24,8 @@ html, body {
     margin: 0;
     height: 100%;
 }
+
+.icons{
+    width: 20px;
+    height: 20px;
+}
