@@ -26,6 +26,15 @@ html, body {
 }
 
 .icons{
-    width: 20px;
-    height: 20px;
+    width: 20%;
+    height: 20%;
 }
+
+.d-flex{
+    margin-top: 1%;
+    gap: 1.5%;
+}
+
+svg:hover {
+    fill: black;
+  }
